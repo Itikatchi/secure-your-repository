@@ -3,7 +3,7 @@ import static org.junit.jupiter.api.Assertions.assertNotNull;
 
 class CalcTest {
     @Test
-    void test1() {
+    void Calc_Null_Test() {
         assertNotNull(new Calc());
     }
 }
